@@ -1,4 +1,4 @@
-#Plot3.R: creates global active power histogram
+#Plot3.R: plots submetering vs time
 
 
 #######Get and clean data######

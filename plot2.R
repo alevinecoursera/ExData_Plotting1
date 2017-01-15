@@ -1,4 +1,4 @@
-#Plot2.R: creates global active power histogram
+#Plot2.R: plots global active power vs time
 
 
 #######Get and clean data######
